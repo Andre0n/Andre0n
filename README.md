@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js and Android development.**
 
-- 💬 Ask me about **C,Js, Lua and Python**
+- 💬 Ask me about **C, Js, Lua and Python**
 
 - 📫 How to reach me **andreon098@gmail.com**
 
