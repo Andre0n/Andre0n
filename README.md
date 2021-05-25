@@ -8,7 +8,7 @@
 - 💬 Ask me about **C, Js, Lua and Python**
 
 - 📫 How to reach me **andreon098@gmail.com**
-- :computer: This is my site [André Gabriel](andre0n.github.io/site/)
+- :computer: This is my site [André Gabriel](https://andre0n.github.io/site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
