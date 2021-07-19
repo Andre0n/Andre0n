@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm André Gabriel</h1>
 <h3 align="center">A programmer and student.</h3>
 
-- 🔭 I’m currently working on [simple-api](https://github.com/Andre0n/simple-api)
+- 🌱 I’m currently learning **React Js.**
 
-- 🌱 I’m currently learning **React Js and Android development.**
-
-- 💬 Ask me about **C, Js, Lua or Python**
+- 💬 Ask me about **C, Lua or Python**
 
 - 📫 How to reach me **andreon098@gmail.com**
+
+- 🌐 My personal <a href="https://andre0n.github.io/site"> website </a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
