@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Js.**
 
-- 💬 Ask me about **C, Lua or Python**
+- 💬 Ask me about **C, Lua or Python.**
 
 - 📫 How to reach me **andreon098@gmail.com**
 
