@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm André Gabriel</h1>
 <h3 align="center">A programmer and student.</h3>
 
-- 🌱 I’m currently learning **React Js.**
-
 - 💬 Ask me about **C, Lua or Python.**
 
 - 📫 How to reach me **andreon098@gmail.com**
