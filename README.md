@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **andreon098@gmail.com**
 
-- 🌐 My personal <a href="https://andre0n.github.io/site"> website </a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
