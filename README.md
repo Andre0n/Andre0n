@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm André Gabriel</h1>
-<h3 align="center">A programmer and student.</h3>
+<h1 align="left">Hi 👋, I'm André Gabriel</h1>
 
 - 💬 Ask me about **C, Lua or Python.**
-
-- 📫 How to reach me **andreon098@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
