@@ -1,7 +1,15 @@
-## Hi, I'm André
+## Hi there, I'm André Gabriel
 
-**Main languages**: Python, JavaScript, Java.
+Dev who loves code and learning.
 
-**Also know**: C, Lua, Rust.
+**Main languages**: JavaScript, Lua, Python.
+
+**Also know**: C, C++, Java.
   
-**OS**: Linux, Windows
+**Main OS**: Linux (Gentoo/Arch)
+
+**Also use**: Windows for gaming
+
+**I’m currently learning**: Rust by creating this [game](https://github.com/Andre0n/gnop).
+
+**I’m interested in**: Compilers, Machine Learning, Games (see my pined projects).
