@@ -14,4 +14,3 @@ Dev who loves code and learning.
 
 **I’m interested in**: Compilers, Machine Learning, Games (see my pined projects).
 
-<img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre0n&theme=vue&hide=css,tcl,html"></img>
