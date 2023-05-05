@@ -6,11 +6,9 @@ Dev who loves code and learning.
 
 **Also know**: C, C++, Java.
   
-**Main OS**: Linux (Gentoo/Arch)
+**Main OS**: Linux (Arch)
 
-**Also use**: Windows for gaming
+**Also use**: Windows for gaming.
 
-**I’m currently learning**: Rust by creating this [game](https://github.com/Andre0n/gnop).
-
-**I’m interested in**: Compilers, Machine Learning, Games (see my pined projects).
+**I’m interested in**: Web development, Compilers, Machine Learning, Games (see my pined projects).
 
