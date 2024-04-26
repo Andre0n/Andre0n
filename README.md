@@ -10,5 +10,5 @@ Dev who loves code and learning.
 
 **Also use**: Windows for gaming.
 
-**I’m interested in**: Web development, Optimizations, Compilers, Machine Learning and Games.
+**I’m interested in**: Web development, Optimization, Compilers, Machine Learning and Games.
 
