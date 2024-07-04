@@ -1,14 +1,10 @@
 ## Hi there, I'm André Gabriel
 
-Dev who loves code and learning.
+A software developer who knows a few things.
 
-**Main languages**: JavaScript, Lua, Python.
+**Main languages**: JavaScript, Python, Lua.
 
 **Also know**: C, C++, Java.
-  
-**Main OS**: Linux (Arch)
-
-**Also use**: Windows for gaming.
 
 **I’m interested in**: Web development, Optimization, Compilers, Machine Learning and Games.
 
